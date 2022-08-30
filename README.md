@@ -1,6 +1,6 @@
 # Specs:
 
-Desenvolvedor uma tela de CRUD de funcionarios.
+Desenvolver uma tela de CRUD de funcionarios.
 
 
 ## Detalhes:
